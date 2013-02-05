@@ -4,8 +4,8 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/m_gur_000/Dropbox/Android/A1_CS480/jackson-annotations-2.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/m_gur_000/Dropbox/Android/A1_CS480/jackson-core-2.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/m_gur_000/Dropbox/Android/A1_CS480/jackson-databind-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/m_gur_000/Dropbox/Android/RedditJSON-Android/jackson-annotations-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/m_gur_000/Dropbox/Android/RedditJSON-Android/jackson-core-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/m_gur_000/Dropbox/Android/RedditJSON-Android/jackson-databind-2.1.1.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
