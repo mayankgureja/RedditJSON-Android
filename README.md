@@ -11,7 +11,7 @@ The RedditJSON.apk is located inside the /bin folder. Simply sideload it onto yo
 Coding Environment
 ------------------
 
-Written, built and tested on Eclipse-ADT (Android Development Tools). See http://developer.android.com/tools/sdk/eclipse-adt.html
+Written, built and tested on [Eclipse-ADT (Android Development Tools)](http://developer.android.com/tools/sdk/eclipse-adt.html)
 
 Description
 -----------
@@ -32,7 +32,7 @@ Screenshots of the application in action are available in the /screenshots folde
 Dependencies/Requirements
 -------------------------
 
-Jackson Java JSON Processor. See http://jackson.codehaus.org/
+[Jackson Java JSON Processor](http://jackson.codehaus.org)
 * jackson-annotations-2.1.1.jar
 * jackson-core-2.1.1.jar
 * jackson-databind-2.1.1.jar
